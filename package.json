@@ -1,0 +1,17 @@
+{
+  "name": "import-glob-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "loader",
+    "glob",
+    "sass",
+    "scss"
+  ],
+  "dependencies": {
+    "glob": "^10.3.3",
+    "loader-utils": "^2.0.4"
+  }
+}
